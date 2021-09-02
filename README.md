@@ -2,12 +2,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/lebusa?style=social)
 
-## About me 👨🏽‍💻
+## About me 👨🏽‍💻    
 
 I'm a software engineer with a specialty in immersive audio technologies, and knowledge of node.js related tech stacks (e.g. M\*\*N), a knack for big data & interest in cloud.
 
 - 🔭 I’m currently working on MERN stack projects
-- 🌱 I’m currently learning & experimenting with Postres, Nginx & AWS
+- 🌱 I’m currently learning & experimenting with PostgreSQL, Nginx & AWS
+
 
 
 ## Skillset 🛠️
@@ -19,7 +20,7 @@ I'm a software engineer with a specialty in immersive audio technologies, and kn
 
 ## Some stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lebusa&show_icons=true&title_color=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebusa&layout=compact)](https://github.com/lebusa/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lebusa&show_icons=true&title_color=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebusa&layout=compact)](https://github.com/lebusa/github-readme-stats) <img src="https://c.tenor.com/IoooQf-AFnUAAAAM/code-programmer.gif" height="100" />
 
 
 <!--
