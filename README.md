@@ -4,7 +4,7 @@
 
 ## About me 👨🏽‍💻    
 
-I'm a software engineer with a specialty in immersive audio technologies, and knowledge of node.js related tech stacks (e.g. M\*\*N), a knack for big data & interest in cloud.
+I'm a software engineer with a specialty in immersive audio technologies, and knowledge of node.js related tech stacks (e.g. MERN), a knack for big data & interest in cloud.
 
 - 🔭 I’m currently working on MERN stack projects
 - 🌱 I’m currently learning & experimenting with PostgreSQL, Nginx & AWS
