@@ -4,11 +4,10 @@
 
 ## About me 👨🏽‍💻    
 
-I'm a software engineer with a specialty in immersive audio technologies, and knowledge of node.js related tech stacks (e.g. MERN), a knack for big data & interest in cloud.
+I'm a **fullstack Node.js developer** with a specialty in immersive audio technologies and a knack for big data & interest in **cloud** & **devops**.
 
-- 🔭 I’m currently working on MERN stack projects
-- 🌱 I’m currently learning & experimenting with PostgreSQL, Nginx & AWS
-
+- 🔭 I’m currently working on **MERN** (Mongodb, Express, React, Node.js) stack projects
+- 🌱 I’m currently learning & experimenting with AWS, docker, kubernetes, PostreSQL & Nginx.
 
 
 ## Skillset 🛠️
