@@ -4,7 +4,7 @@
 
 ## About me 👨🏽‍💻    
 
-I'm a  **software developer** with a specialty in **immersive audio**. I build **fullstack** projects, mostly leaning towards **Node.js** stack. I also have an interest in **big data**, **devops** and **cloud**.
+I'm a  **software developer** with a specialty in **immersive audio**. I build **frontend, backend projects** - **fullstack** projects, mostly leaning towards **Node.js** stack. I also have an interest in **big data**, **devops** and **cloud**.
 
 - 🔭 I’m currently working on **MERN** (Mongodb, Express, React, Node.js) stack projects
 - 🌱 I’m currently experimenting with AWS, docker, kubernetes, PostreSQL & Nginx.
