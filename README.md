@@ -6,8 +6,8 @@
 
 I'm a **software engineer** with a specialty in **immersive audio**. I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards **Node.js** stack. I also have an interest in **big data**, **devops** and **cloud**.
 
-- 🔭 Working on **MERN** (Mongodb, Express/Fastify, React, Node.js) stack projects, and also incorporating docker and Nginx.
-- 🌱 Experimenting with AWS, kubernetes & PostreSQL.
+- 🔭 Working on **MERN** & **PERN** (Mongodb/PostgreSQL, Express, React, Node.js) stack projects, and also incorporating docker and Nginx.
+- 🌱 Experimenting with AWS & kubernetes.
 
 
 ## Skillset 🛠️
