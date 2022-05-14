@@ -16,7 +16,7 @@ I'm a **software engineer** with a specialty in **immersive audio**. I build **f
 
 
 ##### Learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="35" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="35" />   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" height="35" /> 
 
 
 ## Some stats
