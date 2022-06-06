@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Motebang!
+## Olá, I'm Motebang!
 
 ![GitHub followers](https://img.shields.io/github/followers/lebusa?style=social)
 
