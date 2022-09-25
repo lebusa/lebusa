@@ -8,6 +8,7 @@ I'm a **software engineer** with a specialty in **immersive audio**. I build **f
 
 - 🔭 Working on **MERN** & **PERN** (MongoDB/PostgreSQL, Express, React, Node.js) projects, with docker, Nginx, mostly on Linux systems.
 - 🌱 Experimenting with AWS & kubernetes.
+- High performance computing practitioner (openHPC, xCAT, SLURM) 
 
 
 ## Skillset 🛠️
