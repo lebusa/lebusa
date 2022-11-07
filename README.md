@@ -7,7 +7,7 @@
 I'm a **software engineer** with a specialty in **immersive audio**. I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**.
 
 - 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js) and **Python** projects, with docker, Nginx, mostly on Linux systems.
-- 🌱 Experimenting with AWS & kubernetes.
+- 🌱 Experimenting with AWS & kubernetes, &amp; trying Go.
 - 🚀 High performance computing practitioner (openHPC, xCAT, SLURM) 
 
 
@@ -17,7 +17,7 @@ I'm a **software engineer** with a specialty in **immersive audio**. I build **f
 
 
 ##### Learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="35" />   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" height="35" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="35" />   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="35" /> 
 
 
 ## Some stats
