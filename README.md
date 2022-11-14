@@ -1,4 +1,4 @@
-## Olá, I'm Motebang!
+## Hello, I'm Motebang!
 
 ![GitHub followers](https://img.shields.io/github/followers/lebusa?style=social)
 
@@ -7,7 +7,7 @@
 I'm a **software engineer** with a specialty in **immersive audio**. I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**.
 
 - 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js) and **Python** projects, with docker, Nginx, mostly on Linux systems.
-- 🌱 Experimenting with AWS & kubernetes, &amp; trying Go.
+- 🌱 Experimenting with AWS & kubernetes, &amp; Go.
 - 🚀 High performance computing practitioner (openHPC, xCAT, SLURM) 
 
 
