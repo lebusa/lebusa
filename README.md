@@ -1,6 +1,7 @@
 ## Hello, I'm Motebang!
 
 ![GitHub followers](https://img.shields.io/github/followers/lebusa?style=social)
+![Twitter followers](https://img.shields.io/twitter/follow/sirfongfong?style=social)
 
 ## About me 👨🏽‍💻    
 
