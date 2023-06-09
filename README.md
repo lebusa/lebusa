@@ -7,7 +7,7 @@
 
 I'm a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**, and specialize in **immersive audio**.
 
-- 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js - Javascript, Typescript) and **Python** projects, with **SQL**, **docker**, Nginx, mostly on Linux systems.
+- 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js - Javascript, Typescript), **Python** and **SQL** projects, with deployment based on **docker**, Nginx, mostly on Linux systems.
 - 🌱 Experimenting with AWS, kubernetes &amp; **Go**.
 - 🚀 High performance computing practitioner (openHPC, xCAT, SLURM) 
 
