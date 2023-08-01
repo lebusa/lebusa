@@ -5,6 +5,8 @@
 
 ## About me 👨🏽‍💻    
 
+I am a **tech lead** in my organisation, overseeing all aspects of ICT.
+
 I'm a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**, and specialize in **immersive audio**.
 
 - 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js - Javascript, Typescript), **Python** and **SQL** projects, with deployments based on **docker**, Nginx, mostly on Linux systems.
@@ -15,7 +17,7 @@ I'm a **software engineer** - I build **frontend, backend, fullstack, media and 
 ## Skillset 🛠️
 <img src="https://img.icons8.com/ios/35/000000/audio-wave--v2.png"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript"  height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript"  height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"  height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React.js"  height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="docker" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="35" />
 
-
+I'm also a **system administer** - from databases, through networks to high performance systems running heavy-duty models.
 
 ##### Learning
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" />  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="35" />   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="35" /> 
