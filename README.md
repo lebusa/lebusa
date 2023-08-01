@@ -16,7 +16,7 @@ I'm also a **software engineer** - I build **frontend, backend, fullstack, media
 
 I'm also a **system administer** - from databases, through networks to high performance systems running heavy-duty models.
 - 🚀 High performance computing practitioner (openHPC, xCAT, SLURM)
-- I also have an interest in **big data** and **cloud**.
+- 💽 I also have an interest in **big data** and **cloud**.
 
 
 ## Skillset 🛠️
