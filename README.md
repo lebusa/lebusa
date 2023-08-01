@@ -9,13 +9,14 @@ I am a **tech lead** in my organisation, overseeing all aspects of ICT.
 -  🔥 Leading and overseeing ICT, e.g. software development, projects.
 -  🪄 Providing technical guidance and mentorship to the team, while ensuring the successful execution of projects through effective planning, problem-solving, and code quality management.
 
-I'm also a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**, and specialize in **immersive audio**.
+I'm also a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack, and specialize in **immersive audio**. 
 
 - 🔭 Working on **MERN**, **PERN** (MongoDB/PostgreSQL, Express, React, Node.js - Javascript, Typescript), **Python** and **SQL** projects, with deployments based on **docker**, Nginx, mostly on Linux systems.
 - 🌱 Experimenting with AWS, kubernetes &amp; **Go**.
 
 I'm also a **system administer** - from databases, through networks to high performance systems running heavy-duty models.
 - 🚀 High performance computing practitioner (openHPC, xCAT, SLURM)
+- I also have an interest in **big data** and **cloud**.
 
 
 ## Skillset 🛠️
