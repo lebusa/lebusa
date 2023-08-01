@@ -6,7 +6,8 @@
 ## About me 👨🏽‍💻    
 
 I am a **tech lead** in my organisation, overseeing all aspects of ICT.
--  💭 Architecting solutions to problems of the business.
+-  🔥 Leading and overseeing ICT, e.g. software development, projects.
+-  🪄 Providing technical guidance and mentorship to the team, while ensuring the successful execution of projects through effective planning, problem-solving, and code quality management.
 
 I'm also a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**, and specialize in **immersive audio**.
 
