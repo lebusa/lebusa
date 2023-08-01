@@ -6,6 +6,7 @@
 ## About me 👨🏽‍💻    
 
 I am a **tech lead** in my organisation, overseeing all aspects of ICT.
+-  💭 Architecting solutions to problems of the business.
 
 I'm also a **software engineer** - I build **frontend, backend, fullstack, media and API projects**, mostly leaning towards the **Node.js** stack. I also have an interest in **big data**, **devops**, **cloud** and **high performance computing**, and specialize in **immersive audio**.
 
