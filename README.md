@@ -1,6 +1,6 @@
 ## 👋🏽 Hello, I'm Motebang
 
-Software Engineer · AI · Analytics · Tech Lead   
+Software Engineer · AI · Analytics · Tech Lead · ICT Expert   
 
 [![GitHub followers](https://img.shields.io/github/followers/lebusa?style=social)](https://github.com/lebusa)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/sirfongfong?style=social)](https://twitter.com/sirfongfong)
