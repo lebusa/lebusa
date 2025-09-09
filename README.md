@@ -21,8 +21,8 @@ Software Engineer · AI · Analytics · Tech Lead · ICT Expert
 ### 🛠️ Tech Toolbox
 **Languages**: JavaScript · TypeScript · Python · R · SQL  
 **Frontend**: React · Next.js · R · R Shiny · HTML · CSS · Tailwind · Bootstrap  
-**Backend**: Node.js · Nest.js · Express · Fastify · RESTful APIs · PostgreSQL · MongoDB · MySQL · SQL  
-**DevOps**: Docker · Ansible · Postman · CI/CD · NGINX · Linux · Git · OAuth · JWT  
+**Backend**: Node.js · Nest.js · Express · Fastify · RESTful APIs · PostgreSQL · MongoDB · MySQL · SQL · Redis  
+**DevOps**: Docker · Ansible · Postman · CI/CD · NGINX · Linux · Git/GitHub/GitHub Actions · OAuth · JWT  
 **Infra**: GCP · AWS · HPC (SLURM, OpenHPC, xCAT)   
 **Extras**: Figma · Miro · Agile · Geospatial & Climate Data Systems
 
